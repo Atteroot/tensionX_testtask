@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "TensionX Amazon Test Task",
+  "version": "1.0.0",
+  "description": "Test task for TensionX",
+  "author": "Atteroot",
+  "browser_action": {
+		"default_popup": "index.html"
+	}
+}

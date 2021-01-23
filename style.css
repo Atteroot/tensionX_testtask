@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.tabcontainer {
+  height: 300px;
+  width: 375px;
+  overflow: hidden;
+}
+
+.tabs {
+  display: flex;
+  width: 1125px;
+  height: 300px;
+}
+
+.tabcontent {
+  height: 300px;
+  width: 375px;
+}
+
+.tabcontent__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tabcontent__description {
+  height: 275px;
+  width: 375px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.tab_cart_button {
+  margin-top: 10px;
+  padding: 10px;
+
+  border: none;
+  background-color: purple;
+  color: white;
+}
+
+.buttons {
+  width: 375px;
+}
+
+.buttons__button {
+  width: 122px;
+  height: 30px;
+  background-color: white;
+  border: hidden;
+  outline: none;
+}
+
+.buttons__button:hover,
+.tab_cart_button:hover {
+  cursor: pointer;
+}
+
+.wrapper {
+  border: 1px solid gray;
+}
