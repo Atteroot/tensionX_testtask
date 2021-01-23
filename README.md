@@ -1,3 +1,6 @@
+# Demo gif:
+![Test Task](https://media.giphy.com/media/In4dNDkH9Wo0LZTpgQ/giphy.gif)
+
 # To install this extension, follow next steps:
 1. Download [this project zip](https://github.com/Atteroot/tensionX_testtask/archive/master.zip)
 2. Open Google Chrome
