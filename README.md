@@ -1,6 +1,10 @@
-To install this extension, follow next steps:
-1. Open Google Chrome
-2. Open chrome://extensions
-3. Turn on Developer mode
-4. Click "Load unpacked" and choose path with extension 
-5. You're welcome!
+# To install this extension, follow next steps:
+1. Download [this project zip](https://github.com/Atteroot/tensionX_testtask/archive/master.zip)
+2. Open Google Chrome
+3. Open chrome://extensions
+4. Turn on Developer mode
+5. Click "Load unpacked" and choose path with extension 
+6. You're welcome!
+
+# Tech stack:
+HMTL, CSS, Flexbox, JS
